@@ -1,6 +1,6 @@
 TW mailer PRO - Project for course "Distributed Systems"
 FH Technikum Wien, WS 2022
-Creators: Victor Bartosik and Lorenz Döllinger 
+Creators: Viktor Bartosik and Lorenz Döllinger 
 
 
 Socket programming in C, C++
