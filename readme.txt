@@ -1,4 +1,4 @@
-TW Mailer PRO - Project for course "Distributed Systems"
+TW mailer PRO - Project for course "Distributed Systems"
 FH Technikum Wien, WS 2022
 Creators: Victor Bartosik and Lorenz Döllinger 
 
